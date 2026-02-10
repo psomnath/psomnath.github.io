@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ site.github.build_revision }}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+
+    <!-- Header -->
+    <header class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+
+      <!-- Navigation -->
+      <nav style="margin-top: 20px;">
+        {% for item in site.nav %}
+          <a href="{{ item.link }}" style="margin-right: 15px; font-size: 18px; color: white;">
+            {{ item.name }}
+          </a>
+        {% endfor %}
+      </nav>
+    </header>
+
+    <!-- Main content -->
+    <main id="content" class="main-content">
+      {{ content }}
+
+      <footer class="site-footer" style="margin-top: 40px;">
+        <p>© 2026 {{ site.title }}</p>
+      </footer>
+    </main>
+
+  </body>
+</html>
