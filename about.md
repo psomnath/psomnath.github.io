@@ -1,3 +1,4 @@
+<img src="/assets/images/profile.jpg" alt="Somnath Purkayastha" width="180" style="border-radius: 8px;">
 # About Me
 
 I’m Somnath Purkayastha — a technical program leader with a career spent building large‑scale cloud, data, and compliance systems for government and enterprise environments. I specialize in turning complex, high‑stakes engineering challenges into clear plans, scalable architectures, and reliable execution across distributed teams.
