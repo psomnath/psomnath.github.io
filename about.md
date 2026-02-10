@@ -44,3 +44,5 @@ I enjoy applying these concepts to real‑world problems, both at work and throu
 I’m a family‑focused cyclist who enjoys organizing group rides, optimizing gear setups, and creating safe, comfortable experiences for everyone involved. I bring the same mindset to my personal life that I bring to my technical work — thoughtful planning, continuous improvement, and a deep commitment to helping others succeed.
 
 This site is a place where I share my projects, experiments, and ongoing learning journey.
+
+👉 Explore my [Projects](projects.md)
