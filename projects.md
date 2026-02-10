@@ -43,3 +43,5 @@ A public Jupyter Notebook from a JHU-related competition environment. Useful as 
 A general-purpose public repository containing educational materials and experiments.
 
 ---
+
+👉 Learn more [About Me](about.md)
