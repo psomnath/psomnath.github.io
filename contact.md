@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Contact
 
 Thanks for visiting my site. If you’d like to connect, collaborate, or learn more about my work, here are the best ways to reach me:
