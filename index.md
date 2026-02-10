@@ -1,19 +1,13 @@
 # Welcome to My Portfolio
 
-Hello! I'm Somnath — a systems-driven thinker who enjoys building data projects, exploring real-world problems through analytics, and creating practical solutions that simplify life.  
+Hi, I’m Somnath — a systems-driven builder who enjoys data analysis, machine learning, and creating practical solutions that simplify real-world workflows.
 
-This site is my digital home base. Here you’ll find:
-- My technical projects  
-- Data analysis work  
-- Learning experiments  
-- Notes and reflections  
+This site brings together my public projects, learning experiments, and technical explorations across data, ML, and software engineering.
 
-I’m currently exploring:
-- Data analysis and visualization  
-- Scenario-driven planning  
-- Practical applications of machine learning  
-- Workflow optimization and automation  
+### What you’ll find here
+- Data analysis projects  
+- Machine learning experiments  
+- Practical software tools  
+- Notes from courses and self-learning  
 
-Feel free to explore my work, connect with me, or check out the projects I’m actively developing.
-
-👉 **Start with my [Projects](projects.md)**  
+👉 Start with my **[Projects](projects.md)**  
