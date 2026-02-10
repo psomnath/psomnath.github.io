@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Blog
 
 Welcome to my blog. Here you’ll find posts about cloud architecture, data platforms, AI/ML, leadership, and the occasional personal project.
