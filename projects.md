@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Projects
 
 A curated selection of my public repositories. These projects reflect my interests in data analysis, machine learning, and practical software development.
