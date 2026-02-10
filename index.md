@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Welcome to My Portfolio
 
 Hi, I’m Somnath — a systems-driven builder who enjoys data analysis, machine learning, and creating practical solutions that simplify real-world workflows.
