@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 <img src="/assets/images/profile.jpg" alt="Somnath Purkayastha" width="180" style="border-radius: 8px;">
 # About Me
 
