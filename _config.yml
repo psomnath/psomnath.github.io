@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+
+title: "Somnath Purkayastha"
+description: "Cloud • Data • AI/ML • Program Leadership"
+
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
