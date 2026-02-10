@@ -3,6 +3,7 @@ theme: jekyll-theme-cayman
 title: "Somnath Purkayastha"
 description: "Cloud • Data • AI/ML • Program Leadership"
 
+# Custom navigation items
 nav:
   - name: "Home"
     link: "/"
@@ -14,7 +15,3 @@ nav:
     link: "/blog"
   - name: "Contact"
     link: "/contact"
-
----
-
-© 2026 Somnath Purkayastha
